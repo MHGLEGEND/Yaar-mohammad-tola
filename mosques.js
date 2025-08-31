@@ -1,0 +1,1 @@
+import {getNamazTimes} from '../lib/namaz'; export default ()=>{const t=getNamazTimes();return <div style={{padding:20}}><h1>Mosques</h1><p>Sample times: {t.fajr},{t.dhuhr},{t.asr},{t.maghrib},{t.isha}</p></div>};

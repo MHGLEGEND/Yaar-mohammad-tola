@@ -1,0 +1,16 @@
+{
+  "root": {
+    "name": "Nogordi Sheikh",
+    "children": [
+      {
+        "name": "Ataruddin Sheikh"
+      },
+      {
+        "name": "Abu Sheikh"
+      },
+      {
+        "name": "Gumani Sheikh"
+      }
+    ]
+  }
+}

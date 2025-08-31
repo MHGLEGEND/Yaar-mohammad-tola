@@ -1,0 +1,1 @@
+import data from '../data/family.json'; export default ()=> <pre style={{padding:20}}>{JSON.stringify(data,null,2)}</pre>

@@ -1,0 +1,1 @@
+export function getNamazTimes(){return {fajr:'05:00',dhuhr:'12:30',asr:'16:00',maghrib:'19:00',isha:'20:30'};}

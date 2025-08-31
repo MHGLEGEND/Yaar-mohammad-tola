@@ -1,0 +1,1 @@
+export async function callAI(prompt){return {text:'AI placeholder'};}
